@@ -274,7 +274,7 @@ transition: 0.3s;
 .contact-section{
     padding: 50px 0 100px;
     background:rgb(234, 232, 232);
-    width:100%;
+    
 }
 .contact-section .section-content{
     display: flex;
@@ -494,6 +494,7 @@ transition: 0.3s;
 .contact-section .section-content{
     flex-direction: column-reverse;
     align-items: center;
+    width:100%;
 }
 .footer-section .section-content{
     flex-direction: column;
