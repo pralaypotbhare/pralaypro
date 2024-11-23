@@ -443,6 +443,12 @@ transition: 0.3s;
         
         justify-content: center;
     }
+    .home-section .home-details .button:hover{
+    color: rgb(255, 102, 0);
+    border-color: aqua;
+    background: transparent;
+    
+}
     .about-section .section-content{
         gap: 70px;
     
