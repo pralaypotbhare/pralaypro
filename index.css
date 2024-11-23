@@ -432,6 +432,7 @@ transition: 0.3s;
         gap: 50px;
         text-align: center;
         padding: 20px;
+        height:100%;
         flex-direction: column-reverse;
         justify-content: space-between;
     }
