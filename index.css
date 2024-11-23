@@ -497,7 +497,7 @@ transition: 0.3s;
     
 }
 .contact-section{
-    width:100%;
+    width:100px;
 }
 .footer-section .section-content{
     flex-direction: column;
