@@ -90,7 +90,7 @@ header .navbar{
     color: rgb(185, 26, 26);
 } 
 /* -------disply----- */
-.navbar :where(#menu-close-button, #menu-open-button){
+.navbar :where(#menu-close-button,#menu-open-button){
     
     display: none;
 }
