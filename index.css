@@ -437,7 +437,7 @@ transition: 0.3s;
         justify-content: space-between;
     }
     .home-section{
-        height:300px;
+        height:800px;
     }
     .home-section .home-details :is(.subtitle)
      .about-section .about-details .contact-section .contact-form{
