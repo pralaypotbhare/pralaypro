@@ -465,7 +465,7 @@ transition: 0.3s;
 
     .service-section .service-list .service-item{
         width: 200px;
-        margin-left: 50%;
+        
         justify-content: center;
 
     }
