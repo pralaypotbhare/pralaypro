@@ -274,6 +274,7 @@ transition: 0.3s;
 .contact-section{
     padding: 50px 0 100px;
     background:rgb(234, 232, 232);
+    width:100%;
     
 }
 .contact-section .section-content{
@@ -370,7 +371,7 @@ transition: 0.3s;
     }
 
     .service-section .service-list .service-item{
-        width: 160;
+        width: 160px;
 
     }
 
@@ -496,9 +497,7 @@ transition: 0.3s;
     align-items: center;
     
 }
-.contact-section{
-    width:100px;
-}
+
 .footer-section .section-content{
     flex-direction: column;
     gap: 20px;
