@@ -494,6 +494,9 @@ transition: 0.3s;
 .contact-section .section-content{
     flex-direction: column-reverse;
     align-items: center;
+    
+}
+.contact-section{
     width:100%;
 }
 .footer-section .section-content{
